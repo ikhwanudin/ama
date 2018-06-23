@@ -3,10 +3,11 @@
 		<span class="navbar-toggler-icon"></span>
 	</button>
 	<div class="container">
-		<a class="navbar-brand" href="#">Navbar</a>
+		<a class="navbar-brand" href="#">AMA</a>
 		  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			<div class="navbar-nav">
 			<a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+			<a class="nav-item nav-link" href="#">Explore</span></a>
 			</div>
 		  </div>
 	</div>
