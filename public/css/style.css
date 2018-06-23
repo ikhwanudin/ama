@@ -1,0 +1,15 @@
+#status .card-body{
+    padding: 15px 15px 15px 0;
+}
+
+#status .form-group{
+    margin-bottom: 0px; 
+}
+
+#status img{
+    margin: 10px 10px 0 10px;
+}
+
+.bg-warning{
+    background-color:  #fff4d1 !important;
+}
